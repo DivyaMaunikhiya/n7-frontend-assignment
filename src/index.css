@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  /* This completely replaces the old tailwind.config.js setup */
+  --color-primary: #0B1121;
+  --color-secondary: #1E293B;
+  --color-accent: #3B82F6;
+  --font-sans: "Inter", sans-serif;
+}
