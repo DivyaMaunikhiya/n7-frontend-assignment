@@ -55,11 +55,9 @@ Designed for the frontend engineering assignment.
 
 
 ## 📸 Visuals & Previews
-## 📸 Visuals & Previews
 
-### 🎥 Fluid Corner-Sweep Gradient (Footer Preview)
-<p align="center">
-  <video src="./src/preview/assignment.mp4" width="100%" controls autoplay loop muted style="border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
-    Your browser does not support the video tag.
-  </video>
-</p>
+
+https://github.com/user-attachments/assets/84c4b03b-0ca4-4528-a51a-846d239b8bc5
+
+
+
