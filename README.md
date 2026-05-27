@@ -3,7 +3,7 @@
 A pixel-perfect, fully responsive frontend implementation of the N7 Digital Banking platform, developed as an assignment. The focus of this project is on high-fidelity design translation from Figma, modern frontend architecture, and smooth, engaging user interactions.
 
 ## 🔗 Live Demo
-[**Click here to view the live project**](https://your-vercel-link-here.vercel.app) *(Replace with your actual Vercel link)*
+[**Click here to view the live project**](https://n7-frontend-assignment-two.vercel.app/) 
 
 ## 🛠️ Tech Stack
 * **Framework:** React.js (Vite)
@@ -52,3 +52,14 @@ Open your browser and visit http://localhost:5173 (or the port specified in your
 /src/assets - Stores all images, logos, and icons used in the UI.
 
 Designed for the frontend engineering assignment.
+
+
+## 📸 Visuals & Previews
+## 📸 Visuals & Previews
+
+### 🎥 Fluid Corner-Sweep Gradient (Footer Preview)
+<p align="center">
+  <video src="./src/preview/assignment.mp4" width="100%" controls autoplay loop muted style="border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
+    Your browser does not support the video tag.
+  </video>
+</p>
